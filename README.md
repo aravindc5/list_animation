@@ -2,6 +2,18 @@
 
 A new Flutter application.
 
+## Output:
+
+1. Vertical Offset Animation<br>
+
+2. Horizontal Offset Animation<br>
+
+
+![vertical](https://user-images.githubusercontent.com/30715919/96364841-54a8a780-115a-11eb-86e9-8ae074630167.gif)
+![horizontal](https://user-images.githubusercontent.com/30715919/96364843-570b0180-115a-11eb-8be7-bb71bd01bff3.gif)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
